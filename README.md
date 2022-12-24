@@ -13,3 +13,8 @@ Just run the installer and all the instructions are straight-forward!
 - Minecraft 1.17.1
 - Minecraft 1.18.2
 - Minecraft 1.19.3
+
+# Get it today!
+The easiest way to install Minecraft servers to your computer, for free!
+
+https://github.com/xXxDEWxXx/Minecraft-Server-Installation-Tool/releases/tag/Release
