@@ -17,4 +17,4 @@ Just run the installer and all the instructions are straight-forward!
 # Get it today!
 The easiest way to install Minecraft servers to your computer, for free!
 
-** I'm currently fixing a major issue, and thus the program isn't available for download at this time. **
+**I'm currently fixing a major issue, and thus the program isn't available for download at this time.**
